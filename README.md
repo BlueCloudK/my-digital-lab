@@ -60,7 +60,7 @@ A curated collection of roadmaps, notes, and resources for my professional devel
 
 ## 📬 Contact
 
-- **GitHub:** [BlueCloudK]([https://github.com/your-username](https://github.com/BlueCloudK))
+- **GitHub:** [BlueCloudK](https://github.com/BlueCloudK)
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
 - **Website:** [Your Personal Site](https://your-site.com)
 
